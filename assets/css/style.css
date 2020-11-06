@@ -1,0 +1,60 @@
+#demo, h1 {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+}
+
+h1
+{
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+#demo1
+{
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: skyblue;
+    font-size: 30px;
+}
+
+
+div{
+    margin-top: 3vh;
+}
+img{
+    height: 50vh;
+  
+}
+
+
+
+button
+{
+    
+  width: 100px;
+  height: 40px;
+  font-size: 30px;
+  background: wheat;
+
+}
+
+body
+{
+   
+     background-image: url(https://tse3.mm.bing.net/th?id=OIP.tUok6He4G2EkoveACml0-AHaHa&pid=Api&P=0&w=300&h=300ps://tse4.mm.bing.net/th?id=OIP.yKJjSc0jwWMA8adaIl2SCgHaFj&https://tse1.mm.bing.net/th?id=OIP.TJpNSildeuAfqz4GQFASnwHaEK&pid=Api&P=0&w=323&h=182=Api&P=0&w=219&h=165) ; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.button1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
